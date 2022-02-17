@@ -11407,6 +11407,11 @@ p.lead {
   font-size: 3rem;
 }
 
+.project-image {
+  display: flex;
+  justify-content: center;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
