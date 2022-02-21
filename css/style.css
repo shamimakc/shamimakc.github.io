@@ -11409,7 +11409,6 @@ p.lead {
 
 .project-image {
   display: flex;
-  align-items: center;
   justify-content: center;
 }
 
@@ -11438,4 +11437,11 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.project-align{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
