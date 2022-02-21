@@ -11457,7 +11457,7 @@ section.resume-section .resume-section-content {
   justify-content: center;
 }
 
-.footer{
+footer{
   display: flex;
   vertical-align: text-bottom;
   justify-content: center;
