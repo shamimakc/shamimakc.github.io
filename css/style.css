@@ -11407,13 +11407,6 @@ p.lead {
   font-size: 3rem;
 }
 
-.project-image {
-  display: flex;
-  justify-content: left;
-/* top | right | bottom | left */
-  padding: 30px 30px 30px 0px;
-}
-
 section.resume-section {
   display: flex;
   align-items: center;
@@ -11441,6 +11434,13 @@ section.resume-section .resume-section-content {
   }
 }
 
+.project-image {
+  display: flex;
+  justify-content: left;
+/* top | right | bottom | left */
+  padding: 30px 30px 30px 0px;
+}
+
 .project-align{
   margin: auto;
   width: 50%;
@@ -11451,7 +11451,7 @@ section.resume-section .resume-section-content {
 
 .project-divider{
   align: center;
-  width: 30%;
+  width: 20%;
 }
 
 .footer{
