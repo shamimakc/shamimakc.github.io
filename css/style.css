@@ -11444,11 +11444,10 @@ section.resume-section .resume-section-content {
   width: 50%;
   padding: 30px;
   display: flex;
-  border: 3px solid green;
   justify-content: center;
 }
 
 .link-align {
-  padding: 30px;
+  padding: 10px;
   display: flex;
 }
