@@ -11453,3 +11453,8 @@ section.resume-section .resume-section-content {
   align: center;
   width: 30%;
 }
+
+.footer{
+  display: flex;
+  justify-content: center;
+}
