@@ -11449,3 +11449,7 @@ section.resume-section .resume-section-content {
   justify-content: center;
 }
 
+.project-divider{
+  align: center;
+  width: 50%;
+}
