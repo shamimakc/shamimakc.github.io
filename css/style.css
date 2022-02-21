@@ -11436,6 +11436,7 @@ section.resume-section .resume-section-content {
 
 .project-align{
   margin: auto;
+  text-align: left;
   width: 50%;
   padding: 50px;
   display: flex;
@@ -11465,6 +11466,6 @@ section.resume-section .resume-section-content {
 .footer-image{
   /* top | right | bottom | left */
     padding: 0px 0px 0px 5px;
-    width:25;
-    height:25;
+    width:25px;
+    height:25px;
 }
