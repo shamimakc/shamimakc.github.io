@@ -11457,5 +11457,5 @@ section.resume-section .resume-section-content {
 .footer{
   display: flex;
   padding: 20px;
-  justify-content: left;
+  justify-content: center;
 }
