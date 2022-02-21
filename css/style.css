@@ -11452,6 +11452,7 @@ section.resume-section .resume-section-content {
 .project-divider{
   align: center;
   width: 15%;
+  justify-content: center;
 }
 
 .footer{
