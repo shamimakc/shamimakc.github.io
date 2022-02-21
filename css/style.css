@@ -11451,6 +11451,7 @@ section.resume-section .resume-section-content {
 
 .project-divider{
   align: center;
+  justify-content: center;
   width: 20%;
 }
 
