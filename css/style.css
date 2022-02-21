@@ -11459,7 +11459,6 @@ section.resume-section .resume-section-content {
 
 footer{
   display: flex;
-  vertical-align: text-bottom;
   justify-content: center;
 }
 
@@ -11467,9 +11466,9 @@ footer{
   vertical-align: bottom;
 } */
 
-/* .text-bottom > * {
-
-} */
+.text-bottom > * {
+    vertical-align: text-bottom;
+}
 
 .footer-image{
   /* top | right | bottom | left */
