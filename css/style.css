@@ -11409,7 +11409,7 @@ p.lead {
 
 .project-image {
   display: flex;
-  justify-content: center;
+  justify-content: left;
 /* top | right | bottom | left */
   padding: 30px 30px 30px 0px;
 }
