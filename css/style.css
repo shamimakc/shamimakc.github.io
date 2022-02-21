@@ -11447,3 +11447,9 @@ section.resume-section .resume-section-content {
   display: flex;
   justify-content: center;
 }
+
+.text-align{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
