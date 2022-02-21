@@ -11444,13 +11444,8 @@ section.resume-section .resume-section-content {
 .project-align{
   margin: auto;
   width: 50%;
-  padding: 30px;
+  padding: 40px;
   display: flex;
   justify-content: center;
 }
 
-.text-align{
-  display: flex;
-  justify-content: center;
-  padding: 10px;
-}
