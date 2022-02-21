@@ -11462,8 +11462,12 @@ section.resume-section .resume-section-content {
   justify-content: center;
 }
 
-footer.copyright{
+/* footer.copyright{
   vertical-align: bottom;
+} */
+
+.text-bottom > * {
+  vertical-align: text-bottom;
 }
 
 .footer-image{
