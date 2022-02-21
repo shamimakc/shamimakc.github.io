@@ -96,16 +96,17 @@
             <div class="project-image">
               <img src="assets/rps.png" alt="RPS" width="400" height="250">
             </div>
+            <div class="flex-shrink-0 link-align">
+              <button type="button" name="button">Code</button>
+              <button id="myButton1" class="submit-button">Demo</button>
+              <script type="text/javascript">
+                document.getElementById("myButton1").onclick = function() {
+                  location.href = "/rps";
+                };
+              </script>
+            </div>
           </div>
-          <div class="flex-shrink-0 link-align">
-            <button type="button" name="button">Code</button>
-            <button id="myButton1" class="submit-button">Demo</button>
-            <script type="text/javascript">
-              document.getElementById("myButton1").onclick = function() {
-                location.href = "/rps";
-              };
-            </script>
-          </div>
+
         </div>
 
         <div class="project-align mb-5">
