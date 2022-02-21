@@ -11410,6 +11410,7 @@ p.lead {
 .project-image {
   display: flex;
   justify-content: center;
+  padding: 10px;
 }
 
 section.resume-section {
@@ -11445,9 +11446,4 @@ section.resume-section .resume-section-content {
   padding: 30px;
   display: flex;
   justify-content: center;
-}
-
-.link-align {
-  padding: 10px;
-  display: flex;
 }
