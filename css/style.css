@@ -11444,6 +11444,8 @@ section.resume-section .resume-section-content {
   text-align: left;
   width: 50%;
   padding: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .link-align {
@@ -11451,4 +11453,6 @@ section.resume-section .resume-section-content {
   text-align: left;
   width: 50%;
   padding: 30px;
+  display: flex;
+  justify-content: center;
 }
