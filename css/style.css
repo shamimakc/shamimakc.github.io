@@ -11437,10 +11437,14 @@ section.resume-section .resume-section-content {
 .project-align{
   margin: auto;
   text-align: left;
-  width: 50%;
-  padding: 50px;
+  width: 70%;
+  /* padding: 50px; */
   display: flex;
   justify-content: left;
+}
+
+.project-description{
+
 }
 
 .project-image {
@@ -11452,7 +11456,7 @@ section.resume-section .resume-section-content {
 
 .project-divider{
   margin: auto;
-  align: center;
+  align: left;
   width: 40%;
   justify-content: center;
 }
