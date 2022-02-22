@@ -11470,8 +11470,8 @@ section.resume-section .resume-section-content {
   display: flex;
   justify-content: left;
   /* padding: 5px 5px 5px 1px; */
-  max-width:  80px;
-  max-height: 60px;
+  max-width:  50px;
+  max-height: 50px;
   display:inline;
 }
 
