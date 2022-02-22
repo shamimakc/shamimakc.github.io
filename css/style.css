@@ -11466,6 +11466,15 @@ section.resume-section .resume-section-content {
   display:inline;
 }
 
+.certificate-image1{
+  display: flex;
+  justify-content: left;
+  /* padding: 5px 5px 5px 1px; */
+  max-width:  80px;
+  max-height: 100px;
+  display:inline;
+}
+
 footer{
   display: flex;
   justify-content: center;
