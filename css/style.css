@@ -11457,6 +11457,12 @@ section.resume-section .resume-section-content {
   color: white;
 }
 
+.certificate-image {
+  display: flex;
+  justify-content: left;
+  padding: 10px 10px 10px 1px;
+}
+
 footer{
   display: flex;
   justify-content: center;
