@@ -11434,20 +11434,19 @@ section.resume-section .resume-section-content {
   }
 }
 
-.project-align{
+/* .project-align{
   margin: auto;
   text-align: left;
   width: 70%;
-  /* padding: 50px; */
   display: flex;
   justify-content: left;
-}
+} */
 
-/* .project-image {
+.project-image {
   display: flex;
   justify-content: left;
   padding: 30px 30px 30px 0px;
-} */
+}
 
 .project-divider{
   margin: auto;
