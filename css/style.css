@@ -11443,20 +11443,15 @@ section.resume-section .resume-section-content {
   justify-content: left;
 }
 
-.project-description{
-
-}
-
-.project-image {
+/* .project-image {
   display: flex;
   justify-content: left;
-/* top | right | bottom | left */
   padding: 30px 30px 30px 0px;
-}
+} */
 
 .project-divider{
   margin: auto;
-  align: left;
+  /* align: left; */
   width: 40%;
   padding-bottom: 50px;
   justify-content: left;
